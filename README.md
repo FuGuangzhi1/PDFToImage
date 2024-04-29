@@ -1,4 +1,4 @@
-# PDFToImage
+# PDF to image
  PDF to Image pdf转图片支持多页  
 项目基于 https://github.com/Dtronix/PDFiumCore Apache License Version 2.0协议 目前.net core比较好的pdf转图片方案了  
 # gif显示的转行20多页的pdf最后合并在一张图片
